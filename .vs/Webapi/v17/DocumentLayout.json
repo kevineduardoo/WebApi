@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\k3vin\\source\\repos\\Webapi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22E414E2-7580-4FE5-A90D-43A15F4FC610}|Webapi\\WebAPI.csproj|c:\\users\\k3vin\\source\\repos\\webapi\\webapi\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E414E2-7580-4FE5-A90D-43A15F4FC610}|Webapi\\WebAPI.csproj|solutionrelative:webapi\\enums\\turnoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E414E2-7580-4FE5-A90D-43A15F4FC610}|Webapi\\WebAPI.csproj|c:\\users\\k3vin\\source\\repos\\webapi\\webapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E414E2-7580-4FE5-A90D-43A15F4FC610}|Webapi\\WebAPI.csproj|solutionrelative:webapi\\enums\\departamentoenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E414E2-7580-4FE5-A90D-43A15F4FC610}|Webapi\\WebAPI.csproj|c:\\users\\k3vin\\source\\repos\\webapi\\webapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E414E2-7580-4FE5-A90D-43A15F4FC610}|Webapi\\WebAPI.csproj|solutionrelative:webapi\\controllers\\funcionariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E414E2-7580-4FE5-A90D-43A15F4FC610}|Webapi\\WebAPI.csproj|c:\\users\\k3vin\\source\\repos\\webapi\\webapi\\service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22E414E2-7580-4FE5-A90D-43A15F4FC610}|Webapi\\WebAPI.csproj|solutionrelative:webapi\\service\\funcionarioservice\\funcionarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FuncionarioService.cs",
+              "DocumentMoniker": "C:\\Users\\k3vin\\source\\repos\\Webapi\\Webapi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeDocumentMoniker": "Webapi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "ToolTip": "C:\\Users\\k3vin\\source\\repos\\Webapi\\Webapi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "RelativeToolTip": "Webapi\\Service\\FuncionarioService\\FuncionarioService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDcAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:03:24.218Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FuncionarioController.cs",
+              "DocumentMoniker": "C:\\Users\\k3vin\\source\\repos\\Webapi\\Webapi\\Controllers\\FuncionarioController.cs",
+              "RelativeDocumentMoniker": "Webapi\\Controllers\\FuncionarioController.cs",
+              "ToolTip": "C:\\Users\\k3vin\\source\\repos\\Webapi\\Webapi\\Controllers\\FuncionarioController.cs",
+              "RelativeToolTip": "Webapi\\Controllers\\FuncionarioController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T17:58:35.409Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\k3vin\\source\\repos\\Webapi\\Webapi\\Enums\\TurnoEnum.cs",
+              "RelativeDocumentMoniker": "Webapi\\Enums\\TurnoEnum.cs",
+              "ToolTip": "C:\\Users\\k3vin\\source\\repos\\Webapi\\Webapi\\Enums\\TurnoEnum.cs",
+              "RelativeToolTip": "Webapi\\Enums\\TurnoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:12:25.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartamentoEnum.cs",
+              "DocumentMoniker": "C:\\Users\\k3vin\\source\\repos\\Webapi\\Webapi\\Enums\\DepartamentoEnum.cs",
+              "RelativeDocumentMoniker": "Webapi\\Enums\\DepartamentoEnum.cs",
+              "ToolTip": "C:\\Users\\k3vin\\source\\repos\\Webapi\\Webapi\\Enums\\DepartamentoEnum.cs",
+              "RelativeToolTip": "Webapi\\Enums\\DepartamentoEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:10:56.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
